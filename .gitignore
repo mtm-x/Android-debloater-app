@@ -3,3 +3,4 @@ form.ui
 debloater.pyproject
 debloater.pyproject.user
 .qtcreator/
+__pycache__/
